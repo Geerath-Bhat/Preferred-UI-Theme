@@ -7,3 +7,6 @@ Task : You are required to build a machine learning model that can predict the p
 
 The full problem statement is given in the "Problem Statement" folder :
 https://github.com/Geerath-Bhat/Preferred-UI-Theme/tree/main/Problem%20Statement
+
+Output of the given problem statement :
+https://github.com/Geerath-Bhat/Preferred-UI-Theme/blob/main/output_main_1.csv
