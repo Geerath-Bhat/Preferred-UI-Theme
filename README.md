@@ -5,5 +5,4 @@ Problem Statement :
 You are working in an e-commerce company. The management of the company has recently changed the Ul of the website. Your company has conducted a survey among the users to collect their views on the new Ul update.  
 Task : You are required to build a machine learning model that can predict the preferred Ul theme, given a user's Ul engagement information.
 
-
-![solarized palette] https://github.com/Geerath-Bhat/Preferred-UI-Theme/blob/main/1.jpeg
+The full problem statement is given in the "Problem Statement" folder.
